@@ -69,3 +69,12 @@ Else output should be:
 ```
 Verification Failure
 ```
+
+## Reference
+- https://www.preveil.com/blog/public-and-private-key/
+- https://brilliant.org/wiki/public-key-cryptography/
+- https://ssd.eff.org/en/module/deep-dive-end-end-encryption-how-do-public-key-encryption-systems-work
+- http://blakesmith.me/2010/02/08/understanding-public-key-private-key-concepts.html
+- http://www.globalnerdy.com/2017/06/07/the-best-explanation-of-public-key-cryptography-for-non-techies-that-ive-seen/
+- https://blog.vrypan.net/2013/08/28/public-key-cryptography-for-non-geeks/
+- https://medium.com/@bn121rajesh/rsa-sign-and-verify-using-openssl-behind-the-scene-bf3cac0aade2
